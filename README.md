@@ -1,4 +1,1 @@
-csvToLdap
-=========
-
-Import csv users to Active Directory / LDAP
+Project moved to http://gitweb.gorgones.net/daniel.douat/csvtoldap
